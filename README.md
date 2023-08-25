@@ -5,7 +5,7 @@ Our application is avaible here https://project-wine-quality.streamlit.app/
 # Project_Wine_Quality
 -----------------------------------------------------------------------------------------------------------------------------
 
-*This project is a part of my Jedha Data Fullstack program certification*
+This project has been presented as part of my Machine Learning Engineer certificate for the Jedha Data Fullstack program.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ The objectives of this project are as follows
 With that said, here we go!
 
 
-![Application structure](Capture d’écran du 2023-05-22 11-23-09.png)
+![Application structure](Structure.png)
 
 ## Video presetation
 
